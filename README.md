@@ -17,7 +17,7 @@ the async/await and websockets module dependency.
 $ pip3 install alpaca-trade-api
 ```
 
-## Example
+## Example1
 
 In order to call Alpaca's trade API, you need to sign up for a account and obtain API key pairs. Replace <key_id> and <secret_key> with what you get from the web console.
 
